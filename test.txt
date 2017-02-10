@@ -7,4 +7,4 @@ changes for branch two
 
 chages after merging
 
-change in master
+change in branch two
