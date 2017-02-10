@@ -6,3 +6,5 @@ changes for branch two
 
 
 chages after merging
+
+change in master
